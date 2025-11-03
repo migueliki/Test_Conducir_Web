@@ -1,0 +1,18 @@
+{
+    "adas_1": {
+        "nombre": "Test ADAS - Sistemas Avanzados",
+        "preguntas": [
+            {
+                "pregunta": "¿Qué significa ADAS en los vehículos?",
+                "imagen": "",
+                "opciones": [
+                    "Sistema de Audio Digital Avanzado",
+                    "Sistemas Avanzados de Asistencia a la Conducción", 
+                    "Análisis Dinámico de Asistencia al Sistema",
+                    "Asistencia Digital Automatizada de Seguridad"
+                ],
+                "respuesta_correcta": 1
+            }
+        ]
+    }
+}

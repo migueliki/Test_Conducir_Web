@@ -1,0 +1,362 @@
+{
+    "test_1": {
+        "nombre": "Test Básico 1 - Normas Generales",
+        "preguntas": [
+            {
+                "pregunta": "¿A qué distancia mínima debe mantener su vehículo del que le precede en autopista?",
+                "imagen": "",
+                "opciones": [
+                    "Una distancia que permita detenerse sin colisionar",
+                    "50 metros",
+                    "100 metros",
+                    "150 metros"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "¿Qué indica una señal de ceda el paso?",
+                "imagen": "",
+                "opciones": [
+                    "Prohibido el paso",
+                    "Debe detenerse completamente",
+                    "Debe ceder el paso a otros vehículos",
+                    "Vía preferente"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Cuál es la velocidad máxima en autovía para turismos?",
+                "imagen": "",
+                "opciones": [
+                    "100 km/h",
+                    "110 km/h",
+                    "120 km/h",
+                    "130 km/h"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Está permitido usar el teléfono móvil mientras se conduce?",
+                "imagen": "",
+                "opciones": [
+                    "Sí, siempre que sea con manos libres",
+                    "Sí, pero solo para llamadas urgentes",
+                    "No, está prohibido excepto con manos libres",
+                    "No, está totalmente prohibido"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Qué debe hacer al aproximarse a un paso de peatones?",
+                "imagen": "",
+                "opciones": [
+                    "Acelerar para pasar rápido",
+                    "Reducir la velocidad y estar preparado para detenerse",
+                    "Tocar el claxon para alertar a los peatones",
+                    "Circular normalmente si no hay peatones"
+                ],
+                "respuesta_correcta": 1
+            }
+        ]
+    },
+    "test_2": {
+        "nombre": "Test 2 - Señalización Vertical",
+        "preguntas": [
+            {
+                "pregunta": "¿Qué indica una señal circular con fondo rojo y borde blanco?",
+                "imagen": "",
+                "opciones": [
+                    "Peligro",
+                    "Obligación",
+                    "Prohibición",
+                    "Información"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Una señal triangular con fondo amarillo indica:",
+                "imagen": "",
+                "opciones": [
+                    "Obligación",
+                    "Prohibición",
+                    "Peligro",
+                    "Recomendación"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Qué significa una señal de 'Stop'?",
+                "imagen": "",
+                "opciones": [
+                    "Reducir la velocidad",
+                    "Detenerse completamente",
+                    "Ceder el paso",
+                    "Prohibido el paso"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "La señal de limitación de velocidad 50 km/h es:",
+                "imagen": "",
+                "opciones": [
+                    "Una recomendación",
+                    "Una obligación en condiciones normales",
+                    "Solo para camiones",
+                    "Solo de noche"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿Qué indica una señal azul circular?",
+                "imagen": "",
+                "opciones": [
+                    "Prohibición",
+                    "Peligro",
+                    "Obligación",
+                    "Información"
+                ],
+                "respuesta_correcta": 2
+            }
+        ]
+    },
+    "test_3": {
+        "nombre": "Test 3 - Maniobras y Adelantamientos",
+        "preguntas": [
+            {
+                "pregunta": "¿Cuándo está permitido adelantar por la derecha?",
+                "imagen": "",
+                "opciones": [
+                    "Nunca",
+                    "En autopista siempre",
+                    "Cuando el vehículo de delante vaya a girar a la izquierda",
+                    "En carreteras de un solo carril"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Antes de iniciar un adelantamiento debe:",
+                "imagen": "",
+                "opciones": [
+                    "Acelerar bruscamente",
+                    "Señalizar con el intermitente y cerciorarse de que es seguro",
+                    "Tocar el claxon",
+                    "Encender las luces de emergencia"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿Está permitido adelantar en un paso de peatones?",
+                "imagen": "",
+                "opciones": [
+                    "Sí, si no hay peatones",
+                    "Sí, siempre",
+                    "No, está prohibido",
+                    "Solo si se hace rápidamente"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Para cambiar de dirección a la izquierda debe:",
+                "imagen": "",
+                "opciones": [
+                    "Colocarse cerca del borde derecho",
+                    "Colocarse cerca del eje de la calzada",
+                    "Quedarse en el carril central",
+                    "No importa la posición"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "La maniobra de marcha atrás está prohibida:",
+                "imagen": "",
+                "opciones": [
+                    "En autopistas y autovías",
+                    "En vías urbanas",
+                    "En carreteras comarcales",
+                    "En cualquier vía"
+                ],
+                "respuesta_correcta": 0
+            }
+        ]
+    },
+    "test_4": {
+        "nombre": "Test 4 - Prioridades y Glorietas",
+        "preguntas": [
+            {
+                "pregunta": "En una glorieta, ¿quién tiene prioridad?",
+                "imagen": "",
+                "opciones": [
+                    "Los vehículos que entran",
+                    "Los vehículos que circulan por ella",
+                    "Los vehículos más grandes",
+                    "No hay prioridad establecida"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "Al incorporarse a una autopista:",
+                "imagen": "",
+                "opciones": [
+                    "Tiene prioridad",
+                    "Debe ceder el paso",
+                    "Debe detenerse siempre",
+                    "Depende del tráfico"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "En un cruce sin señalizar, ¿qué vehículo tiene prioridad?",
+                "imagen": "",
+                "opciones": [
+                    "El que viene por la derecha",
+                    "El más grande",
+                    "El que va más rápido",
+                    "No hay prioridad"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "Cuando varios vehículos se aproximan a una intersección:",
+                "imagen": "",
+                "opciones": [
+                    "Pasa primero el más rápido",
+                    "Pasa primero el que viene por la izquierda",
+                    "Pasa primero el que viene por la derecha",
+                    "Se detienen todos"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "En un paso para peatones sin semáforo:",
+                "imagen": "",
+                "opciones": [
+                    "Los peatones tienen prioridad",
+                    "Los vehículos tienen prioridad",
+                    "Depende de la hora",
+                    "No hay prioridad definida"
+                ],
+                "respuesta_correcta": 0
+            }
+        ]
+    },
+    "test_5": {
+        "nombre": "Test 5 - Alumbrado y Visibilidad",
+        "preguntas": [
+            {
+                "pregunta": "¿Cuándo es obligatorio usar el alumbrado de cruce?",
+                "imagen": "",
+                "opciones": [
+                    "Solo de noche",
+                    "De noche y en túneles",
+                    "De noche, en túneles y con mala visibilidad",
+                    "Siempre"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Las luces antiniebla delanteras:",
+                "imagen": "",
+                "opciones": [
+                    "Pueden usarse siempre",
+                    "Solo con lluvia intensa",
+                    "Solo con niebla o condiciones de mala visibilidad",
+                    "Están prohibidas"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Qué indica una luz amarilla intermitente?",
+                "imagen": "",
+                "opciones": [
+                    "Peligro, extreme la precaución",
+                    "Detenerse obligatoriamente",
+                    "Paso prohibido",
+                    "Vía preferente"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "Las luces de emergencia se usan:",
+                "imagen": "",
+                "opciones": [
+                    "Para estacionar en doble fila",
+                    "Para señalizar una situación de peligro",
+                    "Solo en autopista",
+                    "Para adelantar"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "En un túnel iluminado:",
+                "imagen": "",
+                "opciones": [
+                    "No es necesario usar luces",
+                    "Deben usarse las luces de posición",
+                    "Deben usarse las luces de cruce",
+                    "Solo las luces antiniebla"
+                ],
+                "respuesta_correcta": 2
+            }
+        ]
+    },
+    "test_6": {
+        "nombre": "Test 6 - Documentación y Seguridad",
+        "preguntas": [
+            {
+                "pregunta": "¿Qué documentación debe llevar siempre el conductor?",
+                "imagen": "",
+                "opciones": [
+                    "DNI y permiso de circulación",
+                    "Permiso de conducción y tarjeta de inspección técnica",
+                    "Permiso de conducción, tarjeta ITV y permiso de circulación",
+                    "Solo el permiso de conducción"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "El cinturón de seguridad es obligatorio:",
+                "imagen": "",
+                "opciones": [
+                    "Solo en carretera",
+                    "Solo para el conductor",
+                    "Para todos los ocupantes",
+                    "Solo en asientos delanteros"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Cuál es la tasa máxima de alcoholemia para conductores noveles?",
+                "imagen": "",
+                "opciones": [
+                    "0,5 g/l en sangre",
+                    "0,3 g/l en sangre",
+                    "0,25 mg/l en aire espirado",
+                    "0,15 mg/l en aire espirado"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "En caso de accidente, lo primero es:",
+                "imagen": "",
+                "opciones": [
+                    "Auxiliar a los heridos",
+                    "Proteger el lugar del accidente",
+                    "Llamar al seguro",
+                    "Mover los vehículos"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "El triángulo de preseñalización de peligro debe colocarse:",
+                "imagen": "",
+                "opciones": [
+                    "A 50 metros del vehículo",
+                    "A 100 metros como mínimo",
+                    "A 50 metros en cada dirección",
+                    "Solo en vías interurbanas"
+                ],
+                "respuesta_correcta": 2
+            }
+        ]
+    }
+}

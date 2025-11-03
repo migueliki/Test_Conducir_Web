@@ -1,0 +1,18 @@
+{
+    "senal_1": {
+        "nombre": "Test Señales 1 - Nuevas Señales",
+        "preguntas": [
+            {
+                "pregunta": "¿Qué indica la nueva señal de zona de bajas emisiones?",
+                "imagen": "",
+                "opciones": [
+                    "Prohibido estacionar",
+                    "Zona restringida a vehículos contaminantes",
+                    "Zona de carga y descarga",
+                    "Zona escolar"
+                ],
+                "respuesta_correcta": 1
+            }
+        ]
+    }
+}
