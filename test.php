@@ -52,7 +52,7 @@ $pregunta_actual = $test['preguntas'][$current_question];
     <title>Test <?php echo $test_id; ?> - Conducir Online</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+<body class="theme-metal">
     <div class="container">
         <header>
             <h1><?php echo $test['nombre']; ?></h1>

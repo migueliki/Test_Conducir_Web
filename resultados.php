@@ -60,7 +60,7 @@ unset($_SESSION['test_data']);
     <title>Resultados - Test de Conducir</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+<body class="theme-metal">
     <div class="container">
         <header>
             <h1>Resultados del Test</h1>
