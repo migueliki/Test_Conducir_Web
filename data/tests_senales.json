@@ -1,18 +1,1623 @@
 {
-    "senal_1": {
-        "nombre": "Test Señales 1 - Nuevas Señales",
-        "preguntas": [
-            {
-                "pregunta": "¿Qué indica la nueva señal de zona de bajas emisiones?",
-                "imagen": "",
-                "opciones": [
-                    "Prohibido estacionar",
-                    "Zona restringida a vehículos contaminantes",
-                    "Zona de carga y descarga",
-                    "Zona escolar"
-                ],
-                "respuesta_correcta": 1
-            }
-        ]
-    }
+  "test señales_1": {
+    "nombre": "TEST SEÑALES.1",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué le indica un agente de policía si desde su vehículo emite una luz roja intermitente o destellante hacia adelante?",
+        "imagen": "",
+        "opciones": [
+          "Que debo detenerme en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios.",
+          "Que debo detenerme en el lado derecho, detrás del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios.",
+          "Que debo detenerme en el lado izquierdo, detrás del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Si un agente de tráfico, desde su vehículo, le ordena detenerse mediante el encendido de una luz roja intermitente hacia delante, ¿dónde deberá hacerlo?",
+        "imagen": "",
+        "opciones": [
+          "En el lado derecho de la calzada, detrás del vehículo policial.",
+          "Donde no genere mayores riesgos ni molestias para el resto de usuarios.",
+          "En el lado izquierdo de la calzada, delante del vehículo policial."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Si un vehículo de la policía de tráfico se sitúa detrás de usted y enciende una luz roja intermitente hacia delante, ¿qué debe hacer?",
+        "imagen": "",
+        "opciones": [
+          "Detenerse en el lado izquierdo de la calzada, delante del vehículo policial.",
+          "Detenerse en el lado derecho y, en su caso, seguir las instrucciones del agente.",
+          "Reducir la velocidad y apartarse a la derecha, para facilitar el adelantamiento."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "En este tramo en obras, ¿debe obedecer la señal que sujeta el operario para facilitar la incorporación del camión que sale desde un camino de tierra?",
+        "imagen": "",
+        "opciones": [
+          "Sí, pero solo si el camión ha entrado ya en la intersección.",
+          "No, porque tengo preferencia sobre los vehículos que circulen por una vía sin pavimentar.",
+          "Sí, debo obedecer las indicación del personal de la obra."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La persona destinada a la regulación del paso de vehículos en este tramo en obras le muestra esta señal. ¿Qué debe hacer?",
+        "imagen": "",
+        "opciones": [
+          "Continuar la marcha, ya que la señal solo afecta a los vehículos de la obra.",
+          "Continuar la marcha, ya que como no es un agente no está obligado a obedecerle.",
+          "Detenerse hasta que el personal de la obra indique que puede continua"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Las luces de los semáforos con la silueta de un ciclo, afectan...",
+        "imagen": "",
+        "opciones": [
+          "solo a los ciclos.",
+          "solo a los ciclomotores.",
+          "a ciclos y ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué usuarios deben obedecer este semáforo?",
+        "imagen": "",
+        "opciones": [
+          "Los conductores de todos los vehículos de dos ruedas.",
+          "Los conductores de ciclos.",
+          "Los conductores de ciclos y de ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal, ¿qué indica?",
+        "imagen": "",
+        "opciones": [
+          "Peligro por la proximidad de una intersección a distinto nivel.",
+          "Peligro por la proximidad de un tramo en el que existen varios accesos directos a la vía.",
+          "Intersección donde se debe ceder el paso."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica peligro por...",
+        "imagen": "",
+        "opciones": [
+          "una intersección con cambio obligatorio del sentido de la marcha.",
+          "una intersección donde usted no tiene prioridad.",
+          "la proximidad de una glorieta con circulación en el sentido indicado por las flechas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica que se aproxima...",
+        "imagen": "",
+        "opciones": [
+          "a una glorieta con circulación en el sentido indicado por las flechas.",
+          "a una intersección en la que tienen preferencia los vehículos que entran por la derecha.",
+          "a una intersección en la que tengo prioridad."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal advierte del peligro por...",
+        "imagen": "",
+        "opciones": [
+          "cruce de tranvía.",
+          "parada de vehículos que circulan por raíles.",
+          "la proximidad de un paso a nivel sin barreras."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica la existencia de...",
+        "imagen": "",
+        "opciones": [
+          "un cruce sin prioridad.",
+          "un paso a nivel, puente móvil o muelle a una distancia de 200 m.",
+          "un cruce con una línea de tranvía."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal...",
+        "imagen": "",
+        "opciones": [
+          "indica peligro por la proximidad de una incorporación de una vía con tres carriles.",
+          "en el lado derecho, indica peligro por la existencia de un paso a nivel, puente móvil o muelle a una distancia de 200 m.",
+          "en el lado izquierdo, indica peligro por la existencia de un paso a nivel, puente móvil o muelle a una distancia de 200 m."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Proximidad a un cruce con una línea de tranvía.",
+          "La existencia de un paso a nivel, un puente móvil o un muelle a una distancia de 100 m.",
+          "La cercanía de un paso a nivel al lado derecho."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica...",
+        "imagen": "",
+        "opciones": [
+          "carril obligatorio para entrar a un aeropuerto.",
+          "peligro por la proximidad de un lugar donde vuelan aeronaves a baja altura sobre la vía y que pueden originar ruidos imprevistos.",
+          "acceso prohibido a un aeropuerto."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica peligro por la proximidad de...",
+        "imagen": "",
+        "opciones": [
+          "un tramo de vía con posible obstrucción en la calzada.",
+          "un resalte o badén en la vía o pavimento en mal estado.",
+          "un tramo de vía con pendientes ascendentes y descendentes"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿De qué peligro advierte la señal?",
+        "imagen": "",
+        "opciones": [
+          "De la proximidad de un resalte en la vía.",
+          "De la proximidad de un badén en la vía.",
+          "De la proximidad de una zona en la que el pavimento está en mal estado."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica...",
+        "imagen": "",
+        "opciones": [
+          "peligro por fuerte pendiente ascendente.",
+          "peligro por fuerte pendiente descendente.",
+          "peligro por la existencia de un desnivel lateral a lo largo de la vía."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal advierte de la existencia de un peligro por...",
+        "imagen": "",
+        "opciones": [
+          "una fuerte pendiente ascendente.",
+          "escalón lateral.",
+          "una fuerte pendiente descendente."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Bajada peligrosa por fuerte pendiente.",
+          "Una zona en la que son frecuentes los desprendimientos de rocas.",
+          "Subida peligrosa por fuerte pendiente."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿De qué peligro advierte la señal?",
+        "imagen": "",
+        "opciones": [
+          "De la proximidad de un lugar o tramo con elevado tránsito de peatones.",
+          "De la proximidad de un lugar frecuentado por niños, como escuelas, zonas de juego, etc.",
+          "De la proximidad de uno o varios pasos para peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica...",
+        "imagen": "",
+        "opciones": [
+          "una vía reservada y obligatoria para peatones.",
+          "peligro por la proximidad de un lugar o tramo con elevado tránsito de peatones.",
+          "peligro por la proximidad de uno o varios pasos para peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿De qué peligro advierte la señal?",
+        "imagen": "",
+        "opciones": [
+          "De la proximidad de un lugar o tramo con elevado tránsito de peatones.",
+          "De la proximidad de un lugar frecuentado por niños, como escuelas, zonas de juego, etc.",
+          "De la proximidad de una zona reservada para los peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿De qué peligro advierte la señal?",
+        "imagen": "",
+        "opciones": [
+          "De la proximidad de un lugar o tramo con elevado tránsito de peatones y ciclistas.",
+          "De la proximidad de una zona reservada para peatones y ciclistas.",
+          "De la proximidad de un paso para peatones adosado o compartido con un paso para ciclistas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Una zona reservada para el uso peatonal.",
+          "Una zona de coexistencia.",
+          "Un lugar frecuentado por niños, tales como escuelas o zonas de juegos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica peligro por la proximidad de...",
+        "imagen": "",
+        "opciones": [
+          "una zona peatonal.",
+          "un lugar frecuentado por niños.",
+          "uno o varios pasos para peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Peligro por la proximidad de un lugar frecuentado por personas con dificultades motrices o sensoriales.",
+          "Peligro por la proximidad de un lugar frecuentado por personas mayores.",
+          "Peligro por la proximidad de un lugar donde las personas mayores tienen prioridad."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal, ¿qué indica?",
+        "imagen": "",
+        "opciones": [
+          "Entrada prohibida a ciclistas.",
+          "Proximidad de un paso para ciclistas.",
+          "Lugar reservado para la circulación de bicicletas y ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Carril obligatorio para ciclistas.",
+          "Peligro por la proximidad de un paso para ciclistas.",
+          "Prohíbe el paso a los ciclistas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica...",
+        "imagen": "",
+        "opciones": [
+          "peligro por la proximidad de un paso para ciclistas.",
+          "peligro por la proximidad de una intersección donde los ciclistas tienen prioridad.",
+          "peligro por la proximidad de un tramo con circulación frecuente de ciclistas"
+        ],
+        "respuesta_correcta": 0
+      }
+    ]
+  },
+  "test señales_2": {
+    "nombre": "TEST SEÑALES.2",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Peligro por cañada con preferencia para los animales.",
+          "Peligro por animales en libertad.",
+          "Peligro porque la vía puede ser atravesada por ganado."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Peligro por cañada con preferencia para los animales.",
+          "Peligro por la proximidad de un lugar donde se están cazando jabalíes.",
+          "Peligro por la proximidad de un lugar donde es frecuente que los jabalíes atraviesen la vía."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica peligro por...",
+        "imagen": "",
+        "opciones": [
+          "la proximidad de una zona donde sopla frecuentemente viento fuerte de frente.",
+          "la proximidad de un tramo de la vía en el que frecuentemente la visibilidad es reducida por niebla, lluvia o nieve.",
+          "la proximidad de un tramo de la vía en obras con visibilidad reducida."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La proximidad de una zona donde sopla frecuentemente viento fuerte.",
+          "La proximidad de un tramo en el que frecuentemente la circulación se encuentra detenida o dificultada por congestión del tráfico.",
+          "La proximidad de un tramo en el que frecuentemente la visibilidad es reducida."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal de peligro?",
+        "imagen": "",
+        "opciones": [
+          "Que se aproxima un tramo donde varios carriles se reducen a uno solo.",
+          "Un tramo peligroso donde las trayectorias de los vehículos se cruzan.",
+          "Una zona de la calzada cuyo pavimento puede resultar especialmente deslizante."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal de peligro?",
+        "imagen": "",
+        "opciones": [
+          "Que se aproxima un tramo con circulación en ambos sentidos.",
+          "Un tramo donde coinciden una confluencia y una bifurcación.",
+          "Una zona donde una calzada de doble sentido pasa a ser de sentido único."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal prohíbe la entrada a...",
+        "imagen": "",
+        "opciones": [
+          "turismos, solamente.",
+          "vehículos automóviles, solamente.",
+          "vehículos de motor, excepto motocicletas de dos ruedas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿A qué vehículos prohíbe la entrada esta señal?",
+        "imagen": "",
+        "opciones": [
+          "A motocicletas y a vehículos de tres ruedas asimilados a motocicletas.",
+          "A motocicletas de dos ruedas con sidecar solamente.",
+          "A motocicletas, únicamente."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal prohíbe la entrada a:",
+        "imagen": "",
+        "opciones": [
+          "Ciclomotores y ciclos.",
+          "Ciclomotores y vehículos para personas de movilidad reducida.",
+          "Ciclomotores y vehículos de movilidad personal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Conduciendo un turismo, ¿puede entrar en una vía en la que existe esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí.",
+          "No.",
+          "No, ya que la señal indica que se trata de una vía reservada y obligatoria para ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿A qué vehículos prohíbe la entrada esta señal?",
+        "imagen": "",
+        "opciones": [
+          "A los vehículos para personas de movilidad reducida.",
+          "A los ciclomotores y a los vehículos de movilidad personal.",
+          "A los ciclomotores y a las motocicletas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Entrada prohibida a camiones, exclusivamente.",
+          "Vía reservada a los camiones de mercancías.",
+          "Entrada prohibida a vehículos destinados al transporte de mercancías."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal prohíbe el acceso a vehículos destinados al transporte de mercancías, entendiendo como tales...",
+        "imagen": "",
+        "opciones": [
+          "camiones, tractocamiones y furgones o furgonetas, dependiendo de su masa.",
+          "camiones, tractocamiones y furgones o furgonetas, independientemente de su masa.",
+          "camiones y furgones, exclusivamente."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿A qué vehículos prohíbe la entrada esta señal?",
+        "imagen": "",
+        "opciones": [
+          "A camiones y autobuses.",
+          "A camiones, furgones y tractocamiones.",
+          "Solo a los camiones y furgones destinados al transporte de mercancías."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Puede entrar un camión en una vía con esta señal?",
+        "imagen": "",
+        "opciones": [
+          "No, tiene siempre prohibido el paso.",
+          "Sí, siempre que su masa en carga no supere las 5,5 toneladas.",
+          "Sí, siempre que su masa máxima autorizada no supere las 5,5 toneladas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿A qué vehículos de transporte de mercancías prohíbe pasar esta señal?",
+        "imagen": "",
+        "opciones": [
+          "A los de más de 3.500 kg de MMA solo cuando llevan carga.",
+          "A los de menos de 3.500 kg de MMA.",
+          "A los de más de 3.500 kg de MMA, aunque circulen vacíos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Prohíbe la entrada solo a los tractores con una MMA superior a 3.500 kilos.",
+          "Prohíbe la entrada a los vehículos agrícolas de motor.",
+          "Prohíbe la entrada a los tractores agrícolas y a los tractores de obras o servicios"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Circula con un turismo con remolque, ¿puede entrar en una vía con esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí, siempre que el remolque tenga un solo eje.",
+          "No, con ningún vehículo que arrastre un remolque.",
+          "Sí, porque la señal solo prohíbe la entrada a los camiones que arrastren un remolque."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Conduce un turismo con un remolque de un solo eje, ¿puede entrar en una vía en la que existe esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí.",
+          "No, en ningún caso.",
+          "Sí, pero solo si la MMA del remolque no supera la cifra indicada en la señal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal prohíbe la entrada a...",
+        "imagen": "",
+        "opciones": [
+          "ciclomotores y vehículos para personas de movilidad reducida.",
+          "bicicletas.",
+          "todos los vehículos de dos ruedas.",
+          "Esta señal prohíbe la entrada a..."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿A qué vehículos prohíbe la entrada esta señal?",
+        "imagen": "",
+        "opciones": [
+          "A todos los vehículos de dos ruedas.",
+          "A ciclos y a vehículos de movilidad personal.",
+          "A vehículos de movilidad personal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal prohíbe la entrada a...",
+        "imagen": "",
+        "opciones": [
+          "ciclos, ciclomotores y a vehículos de movilidad personal.",
+          "ciclos y a vehículos de movilidad personal.",
+          "todos los vehículos de dos ruedas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal de entrada prohibida?",
+        "imagen": "",
+        "opciones": [
+          "Prohíbe la entrada a todos los vehículos durante episodios de contaminación, sin excepciones.",
+          "Prohíbe el acceso únicamente a los vehículos que no tengan distintivo ambiental.",
+          "Prohíbe la entrada a determinados vehículos según el distintivo ambiental que se indique en un panel complementario o cartel."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿La señal permite realizar la maniobra de adelantamiento?",
+        "imagen": "",
+        "opciones": [
+          "No, en ningún caso.",
+          "No, salvo que se adelante a un turismo.",
+          "No, salvo que se pueda hacer la maniobra sin invadir el sentido contrario."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "A partir de la señal, el conductor de un camión de más de 3.500 kg de MMA, ¿puede adelantar a otros vehículos?",
+        "imagen": "",
+        "opciones": [
+          "No.",
+          "Sí, siempre que se pueda hacer la maniobra sin invadir el sentido contrario.",
+          "Sí, puede adelantar a vehículos de dos ruedas que circulen por la calzada."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Estacionamiento prohibido hacia ambos lados de la señal, en el lado de la calzada donde esté situada.",
+          "Parada y estacionamiento prohibido hacia ambos lados de la señal, en el lado de la calzada donde esté situada.",
+          "Prohíbido parar hacia ambos lados de la señal, en el lado de la calzada donde esté situada."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Delante de un vado, esta señal prohíbe...",
+        "imagen": "",
+        "opciones": [
+          "la parada.",
+          "el estacionamiento.",
+          "la parada y el estacionamiento."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La prohibición de estacionar delante de un vado.",
+          "La prohibición de parar delante de un vado.",
+          "Una zona de estacionamiento de duración limitada."
+        ],
+        "respuesta_correcta": 0
+      }
+    ]
+  },
+  "test señales_3": {
+    "nombre": "TEST SEÑALES.3",
+    "preguntas": [
+      {
+        "pregunta": "Esta señal indica la entrada a una vía reservada y obligatoria para...",
+        "imagen": "",
+        "opciones": [
+          "ciclos.",
+          "ciclomotores.",
+          "ciclos y ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Obliga a las bicicletas a circular por la vía que señaliza, y prohíbe hacerlo a los demás usuarios.",
+          "Obliga a las bicicletas a circular por la vía que señaliza, pero no prohíbe hacerlo a los demás usuarios.",
+          "Indica que se trata de una vía reservada y obligatoria para ciclos y peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica vía reservada y obligatoria para...",
+        "imagen": "",
+        "opciones": [
+          "motocicletas y ciclomotores.",
+          "ciclomotores y prohíbe la entrada a los demás usuarios.",
+          "ciclos y ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Si encuentra esta señal a la entrada de una vía debe saber que...",
+        "imagen": "",
+        "opciones": [
+          "está prohibida la entrada a todos aquellos usuarios que no sean conductores de ciclomotores.",
+          "es una vía reservada y obligatoria para ciclos y ciclomotores.",
+          "está prohibida la circulación de ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Puede circular una motocicleta por la vía señalizada con esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí, porque la vía está reservada a vehículos de dos ruedas con motor.",
+          "No, porque es una vía reservada exclusivamente a los ciclomotores.",
+          "Sí, si se trata de una motocicleta sin sidecar."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Que el puerto de montaña tiene nieve y el pavimento es muy deslizante.",
+          "Obliga a llevar neumáticos especiales de invierno.",
+          "Obliga a llevar cadenas desde el punto en que se encuentra dicha señal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Vía obligatoria para vehículos de movilidad personal y prohibición a los demás usuarios de utilizarla.",
+          "Vía para vehículos de movilidad personal en la que también pueden entrar peatones y ciclistas.",
+          "Vía obligatoria para vehículos de movilidad personal y bicicletas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica vía reservada y obligatoria para...",
+        "imagen": "",
+        "opciones": [
+          "todos los vehículos de dos ruedas.",
+          "ciclos y vehículos de movilidad personal.",
+          "ciclos, peatones y vehículos de movilidad persona"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Vía obligatoria para peatones y bicicletas.",
+          "La obligación de que los usuarios de ciclos continúen su marcha a pie.",
+          "La obligación de que los usuarios de ciclos respeten la distancia de seguridad con los peatone"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Fin de calzada obligatoria para automóviles.",
+          "Prohibida la entrada de automóviles.",
+          "Fin de vía reservada para automóvile"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "A partir de la señal, ¿puede seguir circulando un ciclomotor?",
+        "imagen": "",
+        "opciones": [
+          "Sí, y también pueden circular por esa vía otros usuarios.",
+          "Sí, pero no pueden circular por esa vía otros usuarios.",
+          "No, ya que la señal lo prohíbe."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Fin de camino reservado y obligatorio para peatones.",
+          "Prohibida la entrada de peatones.",
+          "Que a partir de la señal, solo pueden circular por esa vía peatones"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La prohibición de que ciclos y vehículos de movilidad personal circulen en posición paralela.",
+          "Fin de vía reservada y obligatoria para ciclos y para vehículos de movilidad personal.",
+          "La prohibición de circular a ciclos y vehículos de movilidad personal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Un cruce de vías con varios carriles.",
+          "Que hay que circular con precaución, por la proximidad de una glorieta.",
+          "El principio de una carretera multicarril."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "El inicio de una carretera con tres carriles en el que el central se utiliza para adelantar, alternando su uso entre ambos sentidos de circulación.",
+          "El inicio de una carretera con tres carriles para el mismo sentido.",
+          "El principio de un carril adicional o habilitado en sentido contrario al habitual."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica...",
+        "imagen": "",
+        "opciones": [
+          "una vía cortada al tráfico.",
+          "el final de una vía en construcción.",
+          "el final de una carretera multicarril"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué significa esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Tramo de calzada de sentido único.",
+          "Obliga a girar en la dirección de la flecha.",
+          "Paso obligatorio por la derecha"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Calzada sin salida excepto para peatones y ciclos.",
+          "Fin de vía reservada para ciclos y peatones.",
+          "Calle cortada para peatones y ciclos"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica...",
+        "imagen": "",
+        "opciones": [
+          "que solo pueden estacionar ambulancias y vehículos de emergencias.",
+          "el lugar donde se puede estacionar solo para acceder a la farmacia.",
+          "que el estacionamiento está reservado para cualquier vehículo, sin límite de tiempo."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Transitabilidad en tramo o puerto de montaña.",
+          "Que el puerto solo puede ser utilizado por vehículos ligeros, sin necesidad de cadenas.",
+          "Que el puerto está abierto y no existen restricciones para ningún vehículo"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Dónde se puede encontrar esta señal?",
+        "imagen": "",
+        "opciones": [
+          "En autopistas o autovías.",
+          "En carreteras convencionales.",
+          "En cualquier tipo de vía."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "En una zona de circulación así señalizada, ¿está permitido estacionar?",
+        "imagen": "",
+        "opciones": [
+          "Sí, se puede estacionar en cualquier lugar.",
+          "Sí, pero solo en los lugares designados por señales o por marcas.",
+          "No, en ningún caso, ya que se trata de una zona de estancia y juego"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Una zona de circulación que está destinada en primer lugar a los peatones.",
+          "Una zona donde la velocidad máxima de los vehículos está fijada en 20 km/h.",
+          "Una zona donde los peatones solo tienen prioridad cuando crucen por los pasos para peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal de Zona de estancia y juego?",
+        "imagen": "",
+        "opciones": [
+          "Que únicamente pueden circular peatones y ciclos, estando prohibida la circulación de vehículos a motor.",
+          "Que los peatones tienen prioridad y están autorizados los juegos y deportes.",
+          "Que la velocidad máxima es de 20 km/h y los peatones solo pueden cruzar por pasos peatonales señalizados."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es la velocidad máxima en una zona de estancia y juego?",
+        "imagen": "",
+        "opciones": [
+          "30 km/h.",
+          "20 km/h.",
+          "10 km/h."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Quién tiene prioridad en una zona de circulación que tiene esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Los peatones.",
+          "Los peatones, los ciclos y los vehículos de movilidad personal.",
+          "Los vehículos a motor, salvo en los pasos para peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "En una zona de estancia y juego, los ciclos y vehículos de movilidad personal pueden circular...",
+        "imagen": "",
+        "opciones": [
+          "únicamente cuando exista una señal que lo permita.",
+          "en ambos sentidos, salvo indicación contraria.",
+          "solo en un sentido."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Indica una zona reservada para el uso peatonal.",
+          "Indica una zona de estancia y juego.",
+          "Indica una calle ciclopeatonal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica...",
+        "imagen": "",
+        "opciones": [
+          "el final de un camino reservado y obligatorio para peatones.",
+          "el fin de una zona reservada para el uso peatonal.",
+          "una zona prohibida para el uso peatonal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal...",
+        "imagen": "",
+        "opciones": [
+          "indica una vía reservada exclusivamente para ciclos y peatones y prohíbe a los demás usuarios utilizarla.",
+          "indica una vía para peatones, ciclos y, en su caso, VMP.",
+          "indica un carril bici compartido con peatones."
+        ],
+        "respuesta_correcta": 0
+      }
+    ]
+  },
+  "test señales_4": {
+    "nombre": "TEST SEÑALES.4",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La existencia de una vía para peatones, ciclos y, en su caso, VMP, separada del tráfico motorizado.",
+          "Una zona exclusiva para peatones donde está prohibida la circulación de ciclos y VMP.",
+          "Una calzada compartida por peatones, vehículos a motor y ciclos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "En una vía senda ciclopeatonal, cuando coinciden peatones con ciclos o VMP, ¿cómo deben actuar cada uno para garantizar la seguridad y la convivencia?",
+        "imagen": "",
+        "opciones": [
+          "Los ciclos y VMP tienen prioridad y pueden mantener su velocidad.",
+          "Los ciclos y VMP deben reducir la velocidad, y los peatones deben facilitar su paso.",
+          "Los peatones tienen prioridad, por lo que los ciclos y VMP deben detenerse hasta que la vía quede libre."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica la situación de...",
+        "imagen": "",
+        "opciones": [
+          "un apartadero en túnel con teléfono de emergencia.",
+          "una carretera 2+1.",
+          "un apartadero."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La situación de un apartadero.",
+          "Una zona de frenado de emergencia.",
+          "Una parada de autobuses."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Para qué sirve el apartadero indicado por la señal?",
+        "imagen": "",
+        "opciones": [
+          "Para poder descongestionar la vía en caso de circulación saturada.",
+          "Para realizar una parada, con el fin de no entorpecer el paso a los demás.",
+          "Para poder apartar el vehículo en caso de emergencia."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal...",
+        "imagen": "",
+        "opciones": [
+          "obliga a las bicicletas a circular por la vía que señaliza, y prohíbe hacerlo a los demás usuarios.",
+          "obliga a las bicicletas a circular por la vía que señaliza, pero no prohíbe hacerlo a los demás usuarios.",
+          "indica la existencia de una vía destinada a la circulación de ciclos y prohibición a los demás usuarios de la vía de utilizarl"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Fin de vía reservada para ciclos.",
+          "Prohibida la entrada de ciclos.",
+          "Que a partir de la señal, solo pueden circular por esa vía ciclos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Vía reservada para vehículos de movilidad personal y prohibición a los demás usuarios de utilizarla.",
+          "Vía para vehículos de movilidad personal en la que también pueden entrar peatones y ciclistas.",
+          "Vía obligatoria para vehículos de movilidad personal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica...",
+        "imagen": "",
+        "opciones": [
+          "vía reservada para todos los vehículos de dos ruedas.",
+          "vía reservada para ciclos y vehículos de movilidad personal.",
+          "vía reservada para ciclos, peatones y vehículos de movilidad personal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La prohibición de que ciclos y vehículos de movilidad personal circulen en posición paralela.",
+          "Fin de vía reservada para ciclos y para vehículos de movilidad personal.",
+          "La prohibición de circular a ciclos y vehículos de movilidad personal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Vía reservada para ciclos y peatones con espacio de circulación diferenciado entre ellos.",
+          "La obligación de que los usuarios de ciclos continúen su marcha a pie.",
+          "La obligación de que los usuarios de ciclos respeten la distancia de seguridad con los peatones"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Fin de vía reservada para ciclos, VMP y peatones, con espacio de circulación diferenciado.",
+          "Fin de la obligación de que los usuarios de ciclos y VMP continúen su marcha a pie.",
+          "La prohibición de que los ciclos y VMP adelanten a los peatones"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal indica...",
+        "imagen": "",
+        "opciones": [
+          "la situación de un paso para peatones compartido con un paso para ciclistas.",
+          "la situación de un paso para ciclistas.",
+          "una vía reservada para ciclistas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La situación de un paso para peatones compartido con un paso para ciclistas.",
+          "La situación de una vía reservada para ciclos y peatones con espacio de circulación diferenciado entre ellos.",
+          "La situación de una senda ciclopeatonal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La situación de un paso para peatones adosado a un paso para ciclistas.",
+          "La situación de una vía reservada para ciclos y peatones con espacio de circulación diferenciado entre ellos.",
+          "La situación de una senda ciclopeatonal."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Zona de coexistencia.",
+          "Zona reservada para el uso peatonal.",
+          "Zona de estancia y juego"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué normas se aplican en una zona de coexistencia?",
+        "imagen": "",
+        "opciones": [
+          "La velocidad máxima es de 10 km/h y los peatones solo pueden cruzar por pasos señalizados.",
+          "Los vehículos tienen prioridad y pueden circular a la velocidad genérica de la vía.",
+          "La velocidad máxima es de 20 km/h y los peatones tienen prioridad en toda la zona."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué caracteriza a una zona de coexistencia?",
+        "imagen": "",
+        "opciones": [
+          "Que los peatones y vehículos comparten la circulación, teniendo los peatones prioridad.",
+          "Que la calzada está destinada exclusivamente a peatones y ciclos, prohibiéndose la entrada a vehículos a motor.",
+          "Que los vehículos tienen prioridad y los peatones deben circular solo por aceras señalizadas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Que los peatones tienen prioridad y están autorizados los juegos y deportes.",
+          "Que los peatones tienen prioridad, pero no están autorizados los juegos y deportes.",
+          "Que la velocidad máxima es de 20 km/h y los peatones solo pueden cruzar por pasos peatonales señalizado"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "En una zona de coexistencia...",
+        "imagen": "",
+        "opciones": [
+          "el estacionamiento está permitido en cualquier lugar y los juegos están autorizados.",
+          "el estacionamiento solo se permite en lugares señalizados y los juegos no están autorizados.",
+          "el estacionamiento y los juegos están totalmente prohibidos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Fin de zona de coexistencia.",
+          "Fin de zona reservada para el uso peatonal.",
+          "Zona donde la velocidad máxima es de 20 km/h y los peatones y ciclistas tienen prohibido circular."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal en una intersección regulada por semáforos?",
+        "imagen": "",
+        "opciones": [
+          "La situación de un paso para ciclistas y motocicletas en una vía de sentido único.",
+          "Una zona de espera previa a la línea de detención reservada a motocicletas, ciclomotores y ciclos.",
+          "Un estacionamiento exclusivo para motocicletas y bicicletas junto a la intersección."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Avanza moto y bici.",
+          "Paso para ciclistas y motocicletas.",
+          "Vía reservada para ciclos y motocicletas con espacio de circulación diferenciado entre ellos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿A qué vehículos representa el pictograma de la motocicleta en esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Solo a motocicletas.",
+          "A motocicletas, ciclomotores y vehículos de tres ruedas asimilados a motocicletas.",
+          "Solo a motocicletas y vehículos de tres ruedas asimilados a motocicletas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal significa...",
+        "imagen": "",
+        "opciones": [
+          "parada de autobuses.",
+          "carril reservado para autobuses, motocicletas y taxis.",
+          "vía obligatoria para los autobuses."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Puede circular con su motocicleta por un carril bus que tiene esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí, para realizar alguna maniobra que no sea parar, estacionar, cambiar de sentido o adelantar.",
+          "Sí.",
+          "No, siempre está prohibido."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Puede entrar un ciclomotor en un carril bus que tiene esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí, cuando el carril esté delimitado por línea discontinua, para realizar alguna maniobra que no sea parar, estacionar, cambiar de sentido o adelantar.",
+          "Sí, ya que puede circular por él.",
+          "No, siempre está prohibido."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Puede circular un ciclista por un carril bus que tiene esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí, cuando el carril esté delimitado por línea discontinua, para realizar alguna maniobra que no sea parar, estacionar, cambiar de sentido o adelantar.",
+          "Sí, porque la señal se lo permite.",
+          "No, en ningún caso."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Puede circular un turismo por un carril señalizado con esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Sí, cuando la línea que lo delimite sea discontinua, para realizar alguna maniobra que no sea parar, estacionar, cambiar de sentido o adelantar.",
+          "Sí, cuando el carril está en vía urbana.",
+          "Sí, únicamente para girar a la derecha."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Carril reservado para vehículos con alta ocupación (VAO)",
+          "El inicio de una carretera 2+1.",
+          "Que se debe mantener una distancia de seguridad con el vehículo de delante, de más de 2 segundos."
+        ],
+        "respuesta_correcta": 0
+      }
+    ]
+  },
+  "test señales_5": {
+    "nombre": "TEST SEÑALES.5",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Que solo pueden circular autobuses y motocicletas por ese carril.",
+          "Que pueden circular por el carril los turismos que transporten al menos 2 personas.",
+          "Que el carril está destinado exclusivamente a vehículos que tengan más de 2 plazas, aunque viaje solo el conductor."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Que, en una calzada de doble sentido de circulación con dos carriles de circulación en el sentido de la marcha, hay una salida próxima por la derecha.",
+          "Que, en una calzada de doble sentido de circulación con dos carriles de circulación en el sentido de la marcha, el carril de la derecha se desvía.",
+          "Que termina el carril de la derecha en una carretera 2+1."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Con esta señal, ¿puede circular con su turismo por el carril de la derecha?",
+        "imagen": "",
+        "opciones": [
+          "Sí, si el carril no está ocupado por ningún ciclo.",
+          "Sí, utilizando el contiguo para adelantar.",
+          "No, ese carril solo lo pueden utilizar los ciclos"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Que el carril derecho solo puede ser utilizado por ciclos y ciclomotores.",
+          "Que por el carril derecho se llega a una senda ciclable.",
+          "Que el carril derecho solo puede ser utilizado por ciclos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica que el carril derecho...",
+        "imagen": "",
+        "opciones": [
+          "es obligatorio para bicicletas, pero pueden utilizarlo otros usuarios.",
+          "es obligatorio para todos los vehículos de dos ruedas.",
+          "solo pueden utilizarlo los ciclos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Que en el próximo estrechamiento, tienen la obligación de pasar primero los ciclos que circulen en sentido contrario.",
+          "Carril bici en sentido opuesto.",
+          "Paso inferior obligatorio para ciclistas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Tramo de calzada con un carril para nuestro sentido de circulación y dos carriles para el sentido opuesto.",
+          "El principio de una carretera 2+1.",
+          "Una carretera multicarril"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Indica que, en una vía con dos carriles, se va a producir una incorporación a través de un carril de aceleración, sin afectar al número de carriles de la vía.",
+          "Indica, en una calzada con tres carriles, que se va a producir una bifurcación con cambio de dirección en el carril derecho.",
+          "Indica que, en una vía con dos carriles, se va a producir la confluencia de otro carril por la derecha, pasando la vía a tener tres carriles."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Confluencia de dos carriles por la izquierda en calzada de dos carriles.",
+          "Confluencia de cuatro carriles por la izquierda en calzada de dos carriles.",
+          "Carril de aceleración doble por la izquierda, en calzada de dos carriles."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Una zona reservada para el estacionamiento de vehículos eléctricos.",
+          "Una zona de bajas emisiones donde solo pueden entrar vehículos eléctricos.",
+          "La situación de una estación de recarga eléctrica."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Una zona reservada para el estacionamiento de vehículos eléctricos y que funcionen con GLP.",
+          "Una zona de bajas emisiones donde solo pueden entrar vehículos eléctricos o que funcionen con GLP.",
+          "Una estación de servicio de carburantes con surtidor de autogás y estación de carga eléctrica."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal le indica...",
+        "imagen": "",
+        "opciones": [
+          "peligro por la existencia de animales sueltos.",
+          "la situación de un parque o espacio natural.",
+          "peligro por la existencia de una cañad"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Estacionamiento para usuarios del metro.",
+          "Estacionamiento para usuarios del ferrocarril.",
+          "Estacionamiento para usuarios de autobús"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La ubicación de un área donde se permite estacionar caravanas y autocaravanas durante la noche.",
+          "La existencia de un punto para el vaciado de aguas residuales de caravanas y autocaravanas.",
+          "Un área exclusiva para la limpieza exterior de caravanas y autocaravanas"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La ubicación de un estacionamiento donde se puede aparcar libremente durante todo el año.",
+          "La existencia de un área de descanso obligatoria para vehículos que transporten mercancías a baja temperatura.",
+          "La situación de un estacionamiento destinado a casos de emergencia por nevadas"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Preseñaliza una glorieta donde la calzada por la que circulo tiene prioridad.",
+          "Preseñaliza una glorieta partida donde la calzada principal mantiene su continuidad.",
+          "Preseñaliza una glorieta partida desde las calzadas secundarias."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica...",
+        "imagen": "",
+        "opciones": [
+          "que debe detenerse siempre antes de entrar en la glorieta, ya que la calzada principal finaliza.",
+          "que se aproxima a una glorieta partida desde la calzada principal.",
+          "que se aproxima a una glorieta partida, donde la calzada por la que circula no mantiene su continuidad."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Las direcciones de las distintas salidas de la próxima glorieta y el carril que se debe usar para acceder a cada una de ellas.",
+          "Que la calzada principal finaliza y todos los vehículos deben incorporarse al carril derecho.",
+          "Que al llegar a la glorieta, los vehículos deben elegir el carril que prefieran libremente."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Las únicas direcciones permitidas para los vehículos que circulan por los carriles señalizados.",
+          "Una bifurcación con confluencia de carriles.",
+          "Las distancias a las que se encuentran las próximas salidas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal, sobre una carretera convencional o carretera multicarril, indica la distancia y la dirección del ramal...",
+        "imagen": "",
+        "opciones": [
+          "de la próxima salida hacia carretera convencional.",
+          "de la próxima salida hacia autopista o autovía.",
+          "procedente de una autopista o autovía."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta señal, ¿qué indica?",
+        "imagen": "",
+        "opciones": [
+          "El nombre de la población a la que se accede y el lugar a partir del cual rigen las normas de circulación en poblado.",
+          "La velocidad máxima a la que pueden circular los usuarios vulnerables que aparecen en la señal.",
+          "La velocidad máxima permitida en todas las vías de esa población, sin excepciones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Fin de poblado.",
+          "Que la vía termina y la circulación solo está permitida para peatones y ciclistas.",
+          "Recuerda la necesidad de adaptar la conducción por la presencia de usuarios vulnerables."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "La señal indica...",
+        "imagen": "",
+        "opciones": [
+          "las obligaciones específicas de circulación que se deben cumplir dentro del túnel.",
+          "la velocidad máxima a la que se puede circular dentro del túnel y su longitud.",
+          "las únicas normas que se deben respetar en el túnel."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Este panel, debajo de una señal vertical...",
+        "imagen": "",
+        "opciones": [
+          "advierte de la presencia de una señalización.",
+          "es complementario de la señal vertical e indica niebla.",
+          "advierte de condiciones adversas como nieve, niebla o lluvia."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Control de velocidad en carretera multicarril.",
+          "Control de velocidad en autopista o autovía.",
+          "Vigilancia por medios automáticos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "La existencia de un dispositivo de control de paso con semáforo en rojo.",
+          "Control de velocidad y de semáforo en rojo.",
+          "Vigilancia mediante medios aéreos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Control de velocidad y control de STOP en carretera convencional.",
+          "La existencia de un dispositivo de control de paso con STOP.",
+          "Vigilancia mediante medios aéreos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta señal?",
+        "imagen": "",
+        "opciones": [
+          "Control de separación mínima en carretera multicarril.",
+          "Control de velocidad y de separación mínima.",
+          "Vigilancia mediante medios aéreos"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "Control de velocidad mediante medios aéreos.",
+          "Zona de coexistencia.",
+          "Zona dirigida a equipos de salvamento aéreo."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué le indica la señal?",
+        "imagen": "",
+        "opciones": [
+          "El número de balizas luminosas que se debe dejar con el vehículo de delante.",
+          "La obligación de encender la luz antiniebla y la de emergencia en caso de niebla.",
+          "El número de balizas que iluminan el carril cuando la vía está en obras."
+        ],
+        "respuesta_correcta": 0
+      }
+    ]
+  },
+  "test señales_6": {
+    "nombre": "TEST SEÑALES.6",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué indica esta línea en una carretera de doble sentido?",
+        "imagen": "",
+        "opciones": [
+          "Únicamente separa los sentidos de circulación.",
+          "Prohíbe siempre el adelantamiento porque se coloca en tramos sin visibilidad.",
+          "Permite el adelantamiento, ya que es discontinua."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta marca transversal?",
+        "imagen": "",
+        "opciones": [
+          "Un paso para ciclistas.",
+          "Un paso para peatones compartido con ciclistas.",
+          "Un paso para peatones."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta marca vial...",
+        "imagen": "",
+        "opciones": [
+          "solo se utiliza para indicar los pasos para ciclistas.",
+          "indica un paso para peatones compartido con ciclistas.",
+          "puede indicar un paso para peatones regulado por semáforos o un paso para ciclistas."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Cuando vea esta marca vial, debe saber que...",
+        "imagen": "",
+        "opciones": [
+          "los peatones no tienen prioridad.",
+          "el paso para peatones está sobreelevado.",
+          "es un paso para peatones regulado por semáforos."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta marca vial?",
+        "imagen": "",
+        "opciones": [
+          "Un paso para ciclistas.",
+          "Un paso para peatones provisional.",
+          "La presencia de un reductor de velocidad tipo «lomo de asno»."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indica esta marca vial?",
+        "imagen": "",
+        "opciones": [
+          "La zona del carril que motoristas y ciclistas deben evitar pisar en curvas de especial riesgo.",
+          "Indica a los motoristas la zona que tiene que pisar, para mantener una buena trayectoria en la curva.",
+          "Indica el lugar exacto donde los motoristas deben frenar antes de iniciar una curva"
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "Esta marca amarilla en zig-zag...",
+        "imagen": "",
+        "opciones": [
+          "indica que en esa zona está prohibido estacionar siempre.",
+          "prohíbe estacionar en determinados periodos especificados en una señal vertical.",
+          "prohíbe parar y estacionar."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indican estas marcas viales?",
+        "imagen": "",
+        "opciones": [
+          "Un espacio que, cuando un semáforo esté en rojo, puede ser ocupado por ciclos, VMP, motocicletas o ciclomotores.",
+          "Un paso para ciclos, VMP, motocicletas o ciclomotores donde el resto de usuarios debe cederles el paso.",
+          "Una zona para el estacionamiento de ciclos, VMP, motocicletas o ciclomotores."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indican las marcas viales conocidas como dientes de dragón?",
+        "imagen": "",
+        "opciones": [
+          "Que la calzada se estrecha y se debe circular más despacio y por el centro del carril.",
+          "Que se aproxima una travesía o vía urbana donde se debe reducir la velocidad y extremar la precaución.",
+          "Que se aproxima un tramo donde está prohibido estacionar."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indican las líneas de borde quebradas?",
+        "imagen": "",
+        "opciones": [
+          "Que se acerca una zona de adelantamiento permitido, donde se puede aumentar la velocidad.",
+          "Que el carril se va a estrechar y está prohibido estacionar.",
+          "Que se aproxima a un paso para peatones o ciclistas y se debe reducir la velocidad."
+        ],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Qué indican estas marcas viales en forma de damero?",
+        "imagen": "",
+        "opciones": [
+          "Que el carril termina y los vehículos deben incorporarse al carril contiguo a menor velocidad.",
+          "Que se debe reducir la velocidad y aumentar la atención porque existe algún riesgo mayor del que puede percibirse.",
+          "Que la vía permite aumentar la velocidad para incorporarse a una autopista o autovía"
+        ],
+        "respuesta_correcta": 0
+      }
+    ]
+  }
 }

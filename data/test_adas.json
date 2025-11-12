@@ -3,15 +3,334 @@
         "nombre": "Test ADAS - Sistemas Avanzados",
         "preguntas": [
             {
-                "pregunta": "¿Qué significa ADAS en los vehículos?",
+                "pregunta": "¿Qué aportan a la seguridad vial los sistemas avanzados de ayuda a la conducción también conocidos como ADAS?",
                 "imagen": "",
                 "opciones": [
-                    "Sistema de Audio Digital Avanzado",
-                    "Sistemas Avanzados de Asistencia a la Conducción", 
-                    "Análisis Dinámico de Asistencia al Sistema",
-                    "Asistencia Digital Automatizada de Seguridad"
+                    "Disminuyen el tiempo de reacción del conductor",
+                    "Permiten al conductor reducir su nivel de alerta",
+                    "Mejoran notablemente la seguridad activa del vehículo",
+                    "No aportan ningún beneficio relevante"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "La información que proporcionan los sistemas ADAS del vehículo...",
+                "imagen": "",
+                "opciones": [
+                    "Es irrelevante para la conducción",
+                    "Facilita al conductor la toma de decisiones",
+                    "Es contraproducente en caso de peligro",
+                    "Solo es útil en autopistas"
                 ],
                 "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿Qué efectos positivos tiene el sistema Start-Stop del vehículo?",
+                "imagen": "",
+                "opciones": [
+                    "Reduce las emisiones y el consumo del vehículo",
+                    "Frena el vehículo ante una señal de stop",
+                    "Reduce el consumo del vehículo, solamente",
+                    "Aumenta la potencia del motor"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "Los sistemas ADAS instalados en el vehículo, ¿pueden ser desconectados en algún momento?",
+                "imagen": "",
+                "opciones": [
+                    "Pueden desconectarse de forma permanente pero nunca de forma temporal",
+                    "Sí, de forma permanente o temporal",
+                    "No pueden desconectarse en ningún caso",
+                    "Solo pueden desconectarse los sistemas de aviso"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿Qué sistemas ADAS están permitidos en las pruebas de control de aptitudes para la obtención del permiso de conducción?",
+                "imagen": "",
+                "opciones": [
+                    "Asistente de estacionamiento",
+                    "TSR o Reconocimiento de señales de tráfico",
+                    "AEB o Frenado de emergencia urbano e interurbano y Hill Holder",
+                    "Ningún sistema ADAS está permitido en las pruebas"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "El sistema de ayuda de salida en pendiente, ¿cómo ayudará al conductor?",
+                "imagen": "",
+                "opciones": [
+                    "A través de un sensor que detecta el ángulo e impide que se vaya hacia atrás",
+                    "Acelerará rápidamente el motor para evitar el desplazamiento hacia atrás",
+                    "Activará el freno de estacionamiento automáticamente",
+                    "No proporciona ninguna ayuda relevante"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "El sistema avanzado de ayuda a la conducción conocido como Start-Stop, ¿en qué momento apaga el motor del vehículo?",
+                "imagen": "",
+                "opciones": [
+                    "Cuando el motor está al ralentí",
+                    "Cuando se pisa el embrague",
+                    "Cuando el motor está muy revolucionado",
+                    "Solo cuando está en una zona urbana"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "¿Qué es el sistema ADAS conocido con las siglas AEB?",
+                "imagen": "",
+                "opciones": [
+                    "Un sistema avanzado de frenado de emergencia",
+                    "Un sistema antibloqueo de frenos electrónico avanzado",
+                    "Un sistema que retiene el vehículo en bajadas pronunciadas",
+                    "Un sistema de control de estabilidad"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "¿De qué forma entra en funcionamiento el sistema avanzado de frenado de emergencia o AEB?",
+                "imagen": "",
+                "opciones": [
+                    "Tomando el control del vehículo cuando detecta un aumento de la distancia de seguridad frontal",
+                    "Avisando al conductor de que hay riesgo de colisión",
+                    "Tomando el control de la dirección del vehículo y realizando una maniobra evasiva",
+                    "Solo mediante aviso sonoro"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "En caso de activarse el sistema avanzado AEB, ¿de qué forma actuará?",
+                "imagen": "",
+                "opciones": [
+                    "Actuará tomando el control de la dirección del vehículo",
+                    "Emitirá un rápido parpadeo de las luces de frenado cuando se apliquen los frenos",
+                    "Avisando al conductor y si este hace caso omiso, tomando el control para detenerlo",
+                    "No tomará ninguna acción automática"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Al salir marcha atrás de un estacionamiento con su vehículo que dispone del sistema de alerta de tráfico cruzado (RCTA), debe saber que...",
+                "imagen": "",
+                "opciones": [
+                    "Ayudará al conductor esquivando el obstáculo",
+                    "Tomará el control del vehículo deteniéndolo inmediatamente",
+                    "Emitirá un aviso sonoro y/o visual cuando detecte un vehículo aproximándose",
+                    "No emitirá ningún aviso"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "El sistema ADAS conocido como RCTA o Alerta de tráfico cruzado, ¿en qué momento emite un aviso al conductor?",
+                "imagen": "",
+                "opciones": [
+                    "Cuando detecta un vehículo que se acerca en sentido transversal en la próxima intersección",
+                    "Cuando al salir marcha atrás de un hueco de estacionamiento detecta un vehículo aproximándose",
+                    "Cuando realizando un adelantamiento detecta un vehículo en sentido contrario",
+                    "Solo de noche"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿A qué velocidad como máximo interviene en los frenos el sistema ADAS RCTA?",
+                "imagen": "",
+                "opciones": [
+                    "A una velocidad inferior a 15 km/h",
+                    "A una velocidad inferior a 30 km/h",
+                    "A una velocidad inferior a 50 km/h",
+                    "A cualquier velocidad"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿Cuál es la finalidad de la cámara de visión trasera instalada en el vehículo?",
+                "imagen": "",
+                "opciones": [
+                    "Realizar la maniobra de estacionamiento de forma rápida y segura",
+                    "Poder circular más de 15 metros para realizar un estacionamiento",
+                    "Tener un mejor visionado de la parte trasera del vehículo",
+                    "Grabar todas las maniobras del conductor"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿De dónde proceden las imágenes que capta el sistema 360° del vehículo para simular un plano cenital del mismo?",
+                "imagen": "",
+                "opciones": [
+                    "De las cámaras instaladas en la periferia del vehículo",
+                    "De un satélite",
+                    "De una sola cámara central",
+                    "No existe ningún sistema que simule esto"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "¿Qué finalidad tiene el sistema ADAS Detección de fatiga?",
+                "imagen": "",
+                "opciones": [
+                    "Tomar el control de la dirección del vehículo en caso de somnolencia",
+                    "Evitar un posible accidente por fatiga o sueño",
+                    "Realizar una detención de emergencia cuando detecta fatiga en el conductor",
+                    "Solo dar avisos visuales"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿Qué sistema ADAS detecta desviaciones en la dirección de la mirada que implican una desatención de la conducción?",
+                "imagen": "",
+                "opciones": [
+                    "El Sistema avanzado de advertencia de distracciones del conductor (ADR)",
+                    "El LTS o Sistema de trazado de carril",
+                    "El Head-up Display",
+                    "El sistema de reconocimiento de señales"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "El sistema ADAS EEB ayuda a detectar cuándo el vehículo que circula por delante...",
+                "imagen": "",
+                "opciones": [
+                    "Se dispone a realizar un cambio de dirección",
+                    "Circula a una velocidad inferior a la mínima",
+                    "Está realizando una frenada de emergencia",
+                    "Está estacionándose"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿En qué consiste el sistema ADAS Aviso de frenada de emergencia o EBD?",
+                "imagen": "",
+                "opciones": [
+                    "El sistema emite un sonido que indica al conductor que debe frenar",
+                    "Un rápido parpadeo de las luces de frenado cuando se aplican los frenos con fuerza",
+                    "El pedal del freno tiembla al pisarlo con fuerza",
+                    "Una vibración en el volante"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "¿En qué situación advierte al conductor el sistema avanzado LDW?",
+                "imagen": "",
+                "opciones": [
+                    "En un desplazamiento lateral indicado con el intermitente",
+                    "En un cambio involuntario de dirección",
+                    "Cuando el vehículo abandona involuntariamente el carril",
+                    "Solo cuando llueve"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿Con qué otro sistema suele combinarse el Sistema avanzado de mantenimiento de carril (LKA)?",
+                "imagen": "",
+                "opciones": [
+                    "Con el Sistema avanzado de advertencia de distracciones del conductor",
+                    "Con el Sistema de detección de fatiga",
+                    "Con el Sistema de advertencia de abandono de carril",
+                    "Con el sistema de reconocimiento de señales"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "¿De qué forma responde el sistema LKA cuando el conductor lleva encendido el intermitente izquierdo para cambiar de carril?",
+                "imagen": "",
+                "opciones": [
+                    "Calcula la trayectoria más favorable del vehículo",
+                    "Permanece desactivado",
+                    "Mantiene la posición del vehículo en el carril y solicita desactivación",
+                    "Bloquea el cambio de carril"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "El sistema ADAS BSIS-BSM, ¿puede intervenir en los sistemas de conducción del vehículo?",
+                "imagen": "",
+                "opciones": [
+                    "Este sistema solo emite aviso óptico, acústico o táctil",
+                    "Sí, llegando a actuar sobre la dirección o detener el vehículo",
+                    "Ningún sistema puede intervenir en la conducción",
+                    "Solo puede frenar de emergencia"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "¿Qué recursos utiliza el sistema de reconocimiento de señales de tráfico del vehículo?",
+                "imagen": "",
+                "opciones": [
+                    "Una cámara o sensor colocado en la parte trasera del retrovisor",
+                    "Utiliza siempre los datos de navegación",
+                    "Solo muestra información sobre marcas viales",
+                    "No necesita ningún dispositivo"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "¿Qué controla el sistema ADAS conocido con las siglas TPMS?",
+                "imagen": "",
+                "opciones": [
+                    "Los ángulos muertos del vehículo",
+                    "Que el vehículo no se mueva cuando permanece estacionado en pendiente",
+                    "La presión de los neumáticos o la variación de esta",
+                    "La velocidad máxima del vehículo"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Una de las funciones del sistema Asistente de velocidad inteligente (ISA) es...",
+                "imagen": "",
+                "opciones": [
+                    "Mantener la velocidad del vehículo en el valor especificado",
+                    "Detectar señales de limitación de velocidad y fijar la velocidad",
+                    "Aumentar la velocidad cuando el conductor va muy despacio",
+                    "Solo funciona en autopistas"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "El sistema ADAS SLI o Dispositivos de limitación de velocidad, ¿qué acción realiza cuando se supera la velocidad especificada?",
+                "imagen": "",
+                "opciones": [
+                    "Detiene el vehículo para evitar accidentes",
+                    "Controla el flujo de combustible que se alimenta al motor",
+                    "Solo actúa cuando el vehículo circula por debajo de la velocidad",
+                    "Emite un aviso sonoro únicamente"
+                ],
+                "respuesta_correcta": 1
+            },
+            {
+                "pregunta": "Un automóvil ya matriculado que no dispone de sistemas ADAS, ¿puede instalar uno a través de un fabricante Aftermarket?",
+                "imagen": "",
+                "opciones": [
+                    "Sí, siempre que sea un sistema de aviso al conductor",
+                    "Sí, cualquiera de ellos para mejorar la seguridad",
+                    "No, en ningún caso",
+                    "Solo sistemas de aviso visual"
+                ],
+                "respuesta_correcta": 0
+            },
+            {
+                "pregunta": "Uno de los objetivos del Sistema BSIS-BSM es...",
+                "imagen": "",
+                "opciones": [
+                    "Impedir que el vehículo se mueva hacia atrás en pendiente",
+                    "Evitar que los ocupantes salgan del vehículo",
+                    "Evitar colisiones con peatones o vehículos",
+                    "Mejorar el consumo de combustible"
+                ],
+                "respuesta_correcta": 2
+            },
+            {
+                "pregunta": "Los vehículos con luces automáticas LED de última generación, ¿cómo pueden evitar el deslumbramiento entre la puesta y la salida del sol?",
+                "imagen": "",
+                "opciones": [
+                    "Desviando las luces hacia la derecha",
+                    "Reduciendo la velocidad del vehículo",
+                    "Reduciendo la intensidad de la luz que incide directamente",
+                    "Apagando las luces completamente"
+                ],
+                "respuesta_correcta": 2
             }
         ]
     }
